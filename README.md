@@ -1,4 +1,5 @@
-![Untitled design (42)](https://user-images.githubusercontent.com/71087332/210038962-ce6edf96-ff93-484f-8e7c-4d2b0b51cc8d.png)
+![Untitled design (44)](https://user-images.githubusercontent.com/71087332/210039174-c3ef8137-ce35-4039-8f2d-ed8e0550a89d.png)
+
 
 # Image encryption and decryption using AES/DES/RSA Algorithm
 

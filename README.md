@@ -1,11 +1,11 @@
 ![Untitled design (44)](https://user-images.githubusercontent.com/71087332/210039174-c3ef8137-ce35-4039-8f2d-ed8e0550a89d.png)
 
 
-# Image encryption and decryption using AES/DES/RSA Algorithm
+# Image encryption and decryption using DES Algorithm
 
 Project Description:
 
-In this project we have attempted to use core JAVA to implement encryption and decryption of image using AES/DES/RSA Algorithm.
+In this project we have attempted to use core JAVA to implement encryption and decryption of image using DES Algorithm.
 
 The code is pretty simple and makes use of cipher class already inbuilt in JAVA for implementing the encryption.
 
